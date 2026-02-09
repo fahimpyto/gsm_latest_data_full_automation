@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/itel_a200+-14477.php",
+  "name": "itel A200+",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-a200-plus.jpg",
+  "highlights": [
+    "Exp. release 2026, February\n\nAndroid 15, itel OS 15.1\n64GB/128GB storage, microSDXC",
+    "N/A\n177 HITS",
+    "0\nBECOME A FAN",
+    "6.75\"\n720x1600 pixels",
+    "13MP\n1080p",
+    "3/4GB RAM\nUnisoc T7250",
+    "6000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February",
+      "Status": "Coming soon. Exp. release 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "8.3 mm thickness",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.8m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.75 inches, 110.0 cm2",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15 (Go edition), itel OS 15.1",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "64GB 3GB RAM, 128GB 3GB RAM, 128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Comet Orange, Nightly Blue, Meteor Titanium, Aura White"
+    }
+  }
+}
