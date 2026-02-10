@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/hmd_terra_m-14480.php",
+  "name": "HMD Terra M",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/hmd-terra-m.jpg",
+  "highlights": [
+    "Exp. release 2026, February\n210g, 14.5mm thickness\nSmart OS 14\n32GB storage, Unspecified",
+    "0.8%\n844 HITS",
+    "0\nBECOME A FAN",
+    "2.8\"\n480x640 pixels",
+    "8MP\n720p",
+    "2GB RAM\nDragonwing QCM2290",
+    "2510mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 10",
+      "Status": "Coming soon. Exp. release 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "146.5 x 66 x 14.5 mm (5.77 x 2.60 x 0.57 in)",
+      "Weight": "210 g (7.41 oz)",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nDrop resistant up to 1.8m\nDedicated red LED torch\nTwo programmable keys"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 550 nits",
+      "Size": "2.8 inches, 24.3 cm2 (~25.1% screen-to-body ratio)",
+      "Resolution": "480 x 640 pixels, 4:3 ratio (~286 ppi density)",
+      "Protection": "Corning Gorilla Glass 3"
+    },
+    "PLATFORM": {
+      "OS": "Smart OS 14",
+      "Chipset": "Qualcomm Dragonwing QCM2290 (4 nm)",
+      "CPU": "Quad-core 2.0 GHz Cortex-A53",
+      "GPU": "Adreno 702"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "32GB 2GB RAM",
+      "": "eMMC 5.1"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, f/2.0 (wide), 1/4.0\", 1.12µm, AF",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes (100 dB)",
+      "3.5mm jack": "Unspecified"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C, magnetic accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, proximity, compass",
+      "": "MP3 player"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 2510 mAh"
+    },
+    "MISC": {
+      "Colors": "Black"
+    }
+  }
+}

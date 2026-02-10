@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "50 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Bass Black, Echo Silver, Vibe Purple, Melody Pink",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer",
+    "Dimensions:": "167.6 x 78.6 x 7.5 mm (6.60 x 3.09 x 0.30 in)",
+    "Resistance:": "IP65 dust tight and water resistant (low pressure water jets)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.5m"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5200 mAh",
+    "Charging:": "18W wired\nReverse wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer",
+    "Resolution:": "720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T7250 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer",
+    "Features:": "USB Type-C, OTG",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}
