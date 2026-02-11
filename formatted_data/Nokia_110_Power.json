@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "No"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray, Blue, Purple",
+    "Folded:": "",
+    "Weight:": "88 g (3.10 oz)",
+    "Materials:": "",
+    "Biometrics:": "",
+    "Dimensions:": "117.7 x 50 x 14.2 mm (4.63 x 1.97 x 0.56 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "removable",
+    "Capacity:": "1750 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "2.0 inches",
+    "Features:": "",
+    "Resolution:": "120 x 160 pixels, 4:3 ratio (~100 ppi density)",
+    "Technology:": "TFT",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 900 / 1800",
+    "3G bands:": "",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Hardware": {
+    "OS:": "",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "microUSB",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "",
+    "Features:": "microUSB",
+    "Location:": "No",
+    "Bluetooth:": "No"
+  }
+}

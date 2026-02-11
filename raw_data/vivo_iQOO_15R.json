@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/vivo_iqoo_15r_5g-14483.php",
+  "name": "vivo iQOO 15R",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11-turbo.jpg",
+  "highlights": [
+    "Not announced yet\n7.9mm thickness\nAndroid 16, up to 4 major upgrades\n256GB/512GB storage, no card slot",
+    "38%\n12,247 HITS",
+    "12\nBECOME A FAN",
+    "6.59\"\n1260x2750 pixels",
+    "50MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Gen 5",
+    "7600mAh\n100W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored. Exp. release 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, glass back or fiber-reinforced plastic back, aluminum alloy frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, HDR10+, 4320Hz PWM, 5000 nits (peak)",
+      "Size": "6.59 inches, 106.1 cm2 (~90.5% screen-to-body ratio)",
+      "Resolution": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 4 major Android upgrades, OriginOS 6",
+      "Chipset": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 829"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), 1/1.56\", PDAF, OIS\n8 MP, f/2.2, (ultrawide), 1/4.0\"",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS, HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, (wide)",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5.0",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7600 mAh",
+      "Charging": "100W wired\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Dark Knight, Triumph Silver",
+      "Models": "I2508",
+      "Price": "About 460 EUR"
+    }
+  }
+}

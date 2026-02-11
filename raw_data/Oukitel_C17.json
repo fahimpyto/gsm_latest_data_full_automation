@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/oukitel_c17-14482.php",
+  "name": "Oukitel C17",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c17.jpg",
+  "highlights": [
+    "Released 2026, January\n198g, 9.3mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "22%\n7,085 HITS",
+    "3\nBECOME A FAN",
+    "6.52\"\n540x1200 pixels",
+    "13MP\n1080p",
+    "4GB RAM\nUnisoc T310",
+    "5000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 25, 26, 28, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December",
+      "Status": "Available. Released 2026, January"
+    },
+    "BODY": {
+      "Dimensions": "163.6 x 75.9 x 9.3 mm (6.44 x 2.99 x 0.37 in)",
+      "Weight": "198 g (6.98 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 450 nits",
+      "Size": "6.52 inches, 102.6 cm2 (~82.7% screen-to-body ratio)",
+      "Resolution": "540 x 1200 pixels, 20:9 ratio (~202 ppi density)",
+      "Protection": "Sharp glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T310 (12 nm)",
+      "CPU": "Quad-core (1x2.0 GHz Cortex-A75 & 3x1.8 GHz Cortex-A55)",
+      "GPU": "PowerVR GE8300"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, f/2.2, (wide), 1/3.06\"",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2, (wide), 1/5.0\"",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5000 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Orange, White, Blue"
+    }
+  }
+}
