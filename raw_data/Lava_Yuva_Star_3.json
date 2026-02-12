@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/lava_yuva_star_3-14486.php",
+  "name": "Lava Yuva Star 3",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lava-yuva-star-3.jpg",
+  "highlights": [
+    "Exp. release 2026, March\n193.7g, 8.5mm thickness\nAndroid 15\n64GB storage, microSDXC",
+    "2.4%\n989 HITS",
+    "3\nBECOME A FAN",
+    "6.75\"\n720x1600 pixels",
+    "13MP\n1080p",
+    "4GB RAM\nUnisoc SC9863A",
+    "5000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 12",
+      "Status": "Coming soon. Exp. release 2026, March"
+    },
+    "BODY": {
+      "Dimensions": "165 x 76.1 x 8.5 mm (6.50 x 3.00 x 0.33 in)",
+      "Weight": "193.7 g (6.84 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz",
+      "Size": "6.75 inches, 110.0 cm2 (~87.6% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15 (Go edition)",
+      "Chipset": "Unisoc SC9863A (28 nm)",
+      "CPU": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+      "GPU": "IMG8322"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, (wide), AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n/ac",
+      "Bluetooth": "4.2, A2DP",
+      "Positioning": "GPS, GLONASS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 5000 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Indus Black, Siachen White",
+      "Price": "About 70 EUR"
+    }
+  }
+}

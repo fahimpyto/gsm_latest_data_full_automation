@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, (wide), AF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "13 MP, (wide), AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Indus Black, Siachen White",
+    "Folded:": "",
+    "Weight:": "193.7 g (6.84 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Dimensions:": "165 x 76.1 x 8.5 mm (6.50 x 3.00 x 0.33 in)",
+    "Resistance:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired",
+    "Max charge speed:": "Wired: 10W"
+  },
+  "Display": {
+    "Size:": "6.75 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15 (Go edition)",
+    "GPU:": "IMG8322",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc SC9863A (28 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 b/g/n/ac",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS",
+    "Bluetooth:": "4.2, A2DP"
+  }
+}
