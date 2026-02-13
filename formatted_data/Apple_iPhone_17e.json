@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS",
+    "Flash:": "Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio",
+    "Front:": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+    "Folded:": "",
+    "Main camera:": "48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.6 Focal Length: 26mm",
+    "Video recording:": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, Dolby Vision HDR, OIS, stereo sound rec."
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Silver, Purple",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Ceramic Shield), glass back, aluminum frame",
+    "Biometrics:": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "-",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+  },
+  "Battery": {
+    "Type:": "Li-Ion",
+    "Capacity:": "4005 mAh",
+    "Charging:": "Wired, 50% in 30 min\n25W wireless MagSafe",
+    "Max charge speed:": "Wireless: 25W"
+  },
+  "Display": {
+    "Size:": "6.1 inches",
+    "Features:": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1170 x 2532 pixels, 19.5:9 ratio (~457 ppi density)",
+    "Technology:": "Super Retina XDR OLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1200 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "· Nano-SIM + eSIM + eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)"
+  },
+  "Hardware": {
+    "OS:": "iOS 26.3",
+    "GPU:": "Apple GPU (4-core graphics)",
+    "RAM:": "8GB",
+    "Processor:": "Apple A19 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+    "Sensors:": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+    "Bluetooth:": "5.3, A2DP, LE"
+  }
+}

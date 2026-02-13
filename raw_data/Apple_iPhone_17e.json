@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/apple_iphone_17e-14487.php",
+  "name": "Apple iPhone 17e",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17e-r.jpg",
+  "highlights": [
+    "Not announced yet\n7.8mm thickness\niOS 26.3\n128GB/256GB/512GB storage, no card slot",
+    "6.6%\n2,965 HITS",
+    "6\nBECOME A FAN",
+    "6.1\"\n1170x2532 pixels",
+    "48MP\n2160p",
+    "8GB RAM\nApple A19",
+    "4005mAh\n25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored. Exp. release 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Ceramic Shield), glass back, aluminum frame",
+      "SIM": "· Nano-SIM + eSIM + eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)",
+      "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+    },
+    "DISPLAY": {
+      "Type": "Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak)",
+      "Size": "6.1 inches, 91.4 cm2 (~87.1% screen-to-body ratio)",
+      "Resolution": "1170 x 2532 pixels, 19.5:9 ratio (~457 ppi density)",
+      "Protection": "Ceramic Shield glass"
+    },
+    "PLATFORM": {
+      "OS": "iOS 26.3",
+      "Chipset": "Apple A19 (3 nm)",
+      "CPU": "Hexa-core",
+      "GPU": "Apple GPU (4-core graphics)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+      "": "NVMe"
+    },
+    "MAIN CAMERA": {
+      "Single": "48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS",
+      "Features": "Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio",
+      "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, Dolby Vision HDR, OIS, stereo sound rec."
+    },
+    "SELFIE CAMERA": {
+      "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+      "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+      "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+      "": "Emergency SOS, Messages and Find My via satellite"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 4005 mAh",
+      "Charging": "Wired, 50% in 30 min\n25W wireless MagSafe"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, Purple",
+      "Price": "About 700 EUR"
+    }
+  }
+}
