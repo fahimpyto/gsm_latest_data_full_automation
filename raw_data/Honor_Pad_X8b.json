@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/honor_pad_x8b-14489.php",
+  "name": "Honor Pad X8b",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x8b.jpg",
+  "highlights": [
+    "Released 2026, February 13\n496g, 7.3mm thickness\nAndroid 16, MagicOS 10\n128GB storage, microSDXC",
+    "13%\n4,602 HITS",
+    "6\nBECOME A FAN",
+    "11.0\"\n1200x1920 pixels",
+    "5MP\n1080p",
+    "4GB RAM\nSnapdragon 680 4G",
+    "10100mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+      "3G bands": "HSDPA 900 / 2100 - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 13",
+      "Status": "Available. Released 2026, February 13"
+    },
+    "BODY": {
+      "Dimensions": "256.9 x 168.5 x 7.3 mm (10.11 x 6.63 x 0.29 in)",
+      "Weight": "496 g (1.09 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 90Hz, 500 nits",
+      "Size": "11.0 inches, 347.5 cm2 (~80.3% screen-to-body ratio)",
+      "Resolution": "1200 x 1920 pixels, 16:10 ratio (~207 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+      "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+      "GPU": "Adreno 610"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "5 MP, f/2.0, AF",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.0",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 10100 mAh"
+    },
+    "MISC": {
+      "Colors": "Space Gray",
+      "Models": "NDL2-W09",
+      "Price": "About 150 EUR"
+    }
+  }
+}
