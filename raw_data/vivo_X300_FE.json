@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/vivo_x300_fe_5g-14491.php",
+  "name": "vivo X300 FE",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s50-pro-mini.jpg",
+  "highlights": [
+    "Not announced yet\n8mm thickness\nAndroid 16, OriginOS 6\n256GB/512GB storage, no card slot",
+    "14%\n5,208 HITS",
+    "9\nBECOME A FAN",
+    "6.31\"\n1216x2640 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nSnapdragon 8 Gen 5",
+    "6500mAh\n90W40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum alloy frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR",
+      "Size": "6.31 inches, 97.6 cm2 (~90.2% screen-to-body ratio)",
+      "Resolution": "1216 x 2640 pixels, 19.5:9 ratio (~461 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 829"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.56\", PDAF, OIS\n50 MP, f/2.7, 70mm (periscope telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom\n8 MP, f/2.2, 110˚ (ultrawide), 1/4.0\"",
+      "Features": "Ring-LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 22mm (wide), 1/2.76\", AF",
+      "Features": "HDR",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6500 mAh",
+      "Charging": "90W wired, PD\n40W wireless\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black; other colors",
+      "Models": "V2537"
+    }
+  }
+}
