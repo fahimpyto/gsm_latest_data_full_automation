@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Flash:": "Dual-LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.5, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Second camera:": "50 MP, f/2.4, 70mm (telephoto), AF, OIS, 3x optical zoom",
+    "Third camera:": "8 MP, f/2.2, 14mm, 112˚ (ultrawide)",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 23mm",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Moonlight black, Malachite green, Nebula titanium, Fir green, Lavender mist, Ethereal blue",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Dimensions:": "162.4 x 77 x 7.4 mm (6.39 x 3.03 x 0.29 in)",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810 compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "6150 mAh",
+    "Charging:": "45W wired",
+    "Max charge speed:": "Wired: 45W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Resolution:": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 3 major Android upgrades, HIOS 16",
+    "GPU:": "Mali-G57 MC2 (1.1GHz)",
+    "RAM:": "8GB",
+    "Processor:": "Mediatek Helio G200 Ultimate (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, proximity, compass",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/tecno_camon_50_pro-14500.php",
+  "name": "Tecno Camon 50 Pro 4G",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-50-pro-4g.jpg",
+  "highlights": [
+    "Exp. release 2026, March\n7.4mm thickness\nAndroid 16, up to 3 major upgrades, HIOS 16\n256GB storage, Unspecified",
+    "7.0%\n3,130 HITS",
+    "5\nBECOME A FAN",
+    "6.78\"\n1208x2644 pixels",
+    "50MP\n1080p",
+    "8GB RAM\nHelio G200 Ultimate",
+    "6150mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 17",
+      "Status": "Coming soon. Exp. release 2026, March"
+    },
+    "BODY": {
+      "Dimensions": "162.4 x 77 x 7.4 mm (6.39 x 3.03 x 0.29 in)",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810 compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 144Hz",
+      "Size": "6.78 inches, 112.1 cm2 (~89.6% screen-to-body ratio)",
+      "Resolution": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+      "Protection": "Unspecified",
+      "": "HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades, HIOS 16",
+      "Chipset": "Mediatek Helio G200 Ultimate (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2 (1.1GHz)"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.4, 70mm (telephoto), AF, OIS, 3x optical zoom\n8 MP, f/2.2, 14mm, 112˚ (ultrawide)",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.5, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6150 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Moonlight black, Malachite green, Nebula titanium, Fir green, Lavender mist, Ethereal blue",
+      "Models": "CN5c"
+    }
+  }
+}
