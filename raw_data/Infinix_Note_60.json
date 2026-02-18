@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/infinix_note_60_5g-14498.php",
+  "name": "Infinix Note 60",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note60-1.jpg",
+  "highlights": [
+    "Exp. release 2026, February\n199g, 7.5mm thickness\nAndroid 16, up to 3 major upgrades, XOS 16\n128GB/256GB storage, no card slot",
+    "25%\n8,839 HITS",
+    "17\nBECOME A FAN",
+    "6.78\"\n1208x2644 pixels",
+    "50MP\n2160p",
+    "8GB RAM\nDimensity 7400 Ultimate",
+    "6500mAh\n45W30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 18",
+      "Status": "Coming soon. Exp. release 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "162.4 x 77.2 x 7.5 mm (6.39 x 3.04 x 0.30 in)",
+      "Weight": "199 g (7.02 oz)",
+      "Build": "Glass front (Gorilla Glass 7i), aluminum frame, aluminum back",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP64 dust tight and water resistant (water splashes)\nRGB notification light (on the back)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+      "Size": "6.78 inches, 112.1 cm2 (~89.4% screen-to-body ratio)",
+      "Resolution": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i",
+      "": "Ultra HDR support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades, XOS 16",
+      "Chipset": "Mediatek Dimensity 7400 Ultimate (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.6, (wide), 0.8µm, PDAF, OIS\n8 MP, f/2.2, 112˚ (ultrawide), 1.12µm",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30/60/120fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, f/2.2, (wide), 1.12µm",
+      "Video": "4K@30fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "Tuned by JBL\n24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, heart rate, SpO2"
+    },
+    "BATTERY": {
+      "Type": "6150 mAh or 6500 mAh",
+      "Charging": "45W wired, 50% in 26 min, 100% in 54 min\n30W wireless\nBypass Charging (gaming, navigating)"
+    },
+    "MISC": {
+      "Colors": "Mist Titanium, Midnight Black, Fizz Blue, Rose Gold, Mocha Brown",
+      "Models": "X6879"
+    }
+  }
+}

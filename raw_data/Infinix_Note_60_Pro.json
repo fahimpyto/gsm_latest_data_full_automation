@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/infinix_note_60_pro_5g-14499.php",
+  "name": "Infinix Note 60 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note60-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, February\n201.7g, 7.4mm thickness\nAndroid 16, up to 3 major upgrades, XOS 16\n256GB storage, no card slot",
+    "46%\n16,261 HITS",
+    "20\nBECOME A FAN",
+    "6.78\"\n1208x2644 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 7s Gen 4",
+    "6500mAh\n90W30W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 18",
+      "Status": "Coming soon. Exp. release 2026, February"
+    },
+    "BODY": {
+      "Dimensions": "162.4 x 77.2 x 7.4 mm (6.39 x 3.04 x 0.29 in)",
+      "Weight": "201.7 g (7.13 oz)",
+      "Build": "Glass front (Gorilla Glass 7i), aluminum frame, aluminum back",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP64 dust tight and water resistant (water splashes)\nRGB notification light & active matrix display (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+      "Size": "6.78 inches, 112.1 cm2 (~89.4% screen-to-body ratio)",
+      "Resolution": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i",
+      "": "Ultra HDR support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades, XOS 16",
+      "Chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+      "GPU": "Adreno 810"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.6, (wide), 0.8µm, PDAF, OIS\n8 MP, f/2.2, 112˚ (ultrawide), 1.12µm",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@30/60/120fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP, f/2.2, (wide), 1.12µm",
+      "Video": "4K@30fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "Tuned by JBL\n24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, heart rate, SpO2"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh or 6500 mAh",
+      "Charging": "90W wired, 50% in 16 min, 100% in 41 min (6500 mAh)\n90W wired, 50% in 14 min, 100% in 35 min (6000 mAh)\n30W wireless\n7.5W reverse wired\n5W reverse wireless\nBypass Charging (gaming, navigating)"
+    },
+    "MISC": {
+      "Colors": "Mist Titanium, Deep Ocean Blue, Solar Orange, Mocha Brown, Torino Black, Frost Silver",
+      "Models": "X6878"
+    }
+  }
+}

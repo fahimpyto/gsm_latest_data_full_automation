@@ -1,0 +1,90 @@
+{
+  "url": "https://www.gsmarena.com/vivo_v70_fe_5g-14504.php",
+  "name": "vivo V70 FE",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v70-fe-.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, OriginOS 6\n256GB storage, no card slot",
+    "0.9%\n778 HITS",
+    "0\nBECOME A FAN",
+    "6.83\"\n1260x2750 pixels",
+    "200MP\n2160p",
+    "12GB RAM\nDimensity 7360 Turbo",
+    "7000mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR, PWM",
+      "Size": "6.83 inches, 114.0 cm2",
+      "Resolution": "1260 x 2750 pixels, 19.5:9 ratio (~443 ppi density)",
+      "Protection": "Mohs level 4"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Mediatek Dimensity 7360 Turbo (4 nm)",
+      "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Dual": "200 MP, f/1.9, (wide), 1/1.56\", PDAF, OIS\n8 MP, f/2.2, (ultrawide), 1/4.0\"",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, (wide)",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "90W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Blue, Purple, Silver",
+      "Models": "V2550"
+    },
+    "EU LABEL": {
+      "Energy": "Class B",
+      "Battery": "67:21h endurance, 1600 cycles",
+      "Free fall": "Class B (180 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}
