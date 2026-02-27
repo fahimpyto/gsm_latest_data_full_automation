@@ -1,0 +1,77 @@
+{
+  "url": "https://www.gsmarena.com/huawei_watch_gt_runner_2-14514.php",
+  "name": "Huawei Watch GT Runner 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-gt-runner2.jpg",
+  "highlights": [
+    "Released 2026, February 26\n34.5g, 10.7mm thickness\nFeature phone\nNo card slot",
+    "4.5%\n4,259 HITS",
+    "7\nBECOME A FAN",
+    "1.32\"\n466x466 pixels",
+    "NO",
+    "",
+    "540mAh\n5W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 26",
+      "Status": "Available. Released 2026, February 26"
+    },
+    "BODY": {
+      "Dimensions": "43.5 x 43.5 x 10.7 mm (1.71 x 1.71 x 0.42 in)",
+      "Weight": "34.5 g (1.23 oz)",
+      "Build": "Glass front, titanium alloy frame, fiber-reinforced plastic back",
+      "SIM": "No",
+      "": "IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n5 ATM\n40m swimproof/diving (EN13319)\nECG certified"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 3000 nits (peak)",
+      "Size": "1.32 inches",
+      "Resolution": "466 x 466 pixels (~352 ppi density)",
+      "Protection": "Kunlun Crystal"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Phonebook": "No",
+      "Call records": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "6.0, LE, EDR",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, SpO2, compass, barometer, depth, temperature",
+      "Messaging": "Email, IM",
+      "Games": "No",
+      "Java": "No"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 540 mAh",
+      "Charging": "Wireless"
+    },
+    "MISC": {
+      "Colors": "Dusk Blue, Dawn Orange, Midnight Black",
+      "Models": "CHT-B19",
+      "Price": "About 400 EUR"
+    }
+  }
+}
