@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/hmd_luma-14517.php",
+  "name": "HMD Luma",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/hmd-luma.jpg",
+  "highlights": [
+    "Exp. release 2026, March\n198g, 8.7mm thickness\nAndroid 15\n128GB/256GB storage, microSDXC",
+    "6.7%\n6,888 HITS",
+    "6\nBECOME A FAN",
+    "6.67\"\n720x1604 pixels",
+    "50MP\n1080p",
+    "4GB RAM\nUnisoc T615",
+    "5000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 27",
+      "Status": "Coming soon. Exp. release 2026, March"
+    },
+    "BODY": {
+      "Dimensions": "165.7 x 76.5 x 8.7 mm (6.52 x 3.01 x 0.34 in)",
+      "Weight": "198 g (6.98 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 500 nits (peak)",
+      "Size": "6.67 inches, 107.2 cm2 (~84.6% screen-to-body ratio)",
+      "Resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Unisoc T615 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 4GB RAM, 256GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, (wide)",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with dual speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Titanium, Blue"
+    }
+  }
+}
