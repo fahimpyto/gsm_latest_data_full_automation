@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/honor_magic_v6_5g-14518.php",
+  "name": "Honor Magic V6",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v6.jpg",
+  "highlights": [
+    "Exp. release 2026, March\n219g or 224g, 4mm thickness\nAndroid 16, up to 7 major upgrades\n512GB/1TB storage, no card slot",
+    "1.6%\n1,924 HITS",
+    "5\nBECOME A FAN",
+    "7.95\"\n2172x2352 pixels",
+    "50MP\n2160p",
+    "16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "6660mAh\n80W66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1x",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2025, March 01",
+      "Status": "Coming soon. Exp. release 2026, March"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 156.7 x 145.6 x 4.0 mm or 4.1 mm\nFolded: 156.7 x 74.5 x 8.8 mm or 9.0 mm",
+      "Weight": "219 g or 224 g (7.72 oz)",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nStylus support (both displays)"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO2 AMOLED, 1B colors, 120Hz, 4320Hz PWM, 5000 nits (peak)",
+      "Size": "7.95 inches, 203.2 cm2 (~89.1% screen-to-body ratio)",
+      "Resolution": "2172 x 2352 pixels (~403 ppi density)",
+      "Protection": "Honor Super Armored Inner Screen",
+      "": "Anti-reflective coating\nCover display:\nLTPO2 OLED, 1B colors, 120Hz, 4320Hz PWM, 6000 nits (peak)\n6.52 inches, 1080 x 2420 pixels, 406 ppi, Honor Anti-scratch NanoCrystal Shield\nAnti-reflective coating"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 7 major Android upgrades, MagicOS 10",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n64 MP, f/2.5, 70mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF, OIS, 3x optical zoom\n50 MP, f/2.2, 13mm, 122˚ (ultrawide), AF",
+      "Features": "Laser AF, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps (10-bit), 1080p@30/60fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "20 MP, f/2.2, (wide)\nCover camera:\n20 MP, f/2.2, (wide)",
+      "Features": "HDR",
+      "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, Display Port 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6660 mAh",
+      "Charging": "80W wired\n66W wireless\nReverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Gold, Red, White, Black"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.6, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Flash:": "Laser AF, LED flash, HDR, panorama",
+    "Front:": "20 MP, f/2.2, (wide)\nCover camera:\n20 MP, f/2.2, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.6, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Second camera:": "64 MP, f/2.5, 70mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF, OIS, 3x optical zoom",
+    "Third camera:": "50 MP, f/2.2, 13mm, 122˚ (ultrawide), AF",
+    "Specifications:": "Aperture size: F/1.6 Focal Length: 23mm",
+    "Video recording:": "4K@30/60fps (10-bit), 1080p@30/60fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gold, Red, White, Black",
+    "Folded:": "",
+    "Weight:": "219 g or 224 g (7.72 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "Unfolded: 156.7 x 145.6 x 4.0 mm or 4.1 mm\nFolded: 156.7 x 74.5 x 8.8 mm or 9.0 mm",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nStylus support (both displays)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "6660 mAh",
+    "Charging:": "80W wired\n66W wireless\nReverse wireless\n5W reverse wired",
+    "Max charge speed:": "Wired: 80WWireless: 66W"
+  },
+  "Display": {
+    "Size:": "7.95 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "2172 x 2352 pixels (~403 ppi density)",
+    "Technology:": "Foldable LTPO2 AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "5000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 7 major Android upgrades, MagicOS 10",
+    "GPU:": "Adreno 840",
+    "RAM:": "16GB",
+    "Processor:": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "512GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1, OTG, Display Port 1.2",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 3.1, OTG, Display Port 1.2",
+    "Location:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a)",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD"
+  }
+}
