@@ -1,0 +1,92 @@
+{
+  "url": "https://www.gsmarena.com/tecno_camon_50_ultra_5g-14519.php",
+  "name": "Tecno Camon 50 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-50-ultra.jpg",
+  "highlights": [
+    "2026, March 02\n178g, 7.4mm thickness\nAndroid 16, up to 3 major upgrades, HIOS 16\n256GB storage, no card slot",
+    "5.7%\n6,876 HITS",
+    "6\nBECOME A FAN",
+    "6.78\"\n1208x2644 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 7400 Ultimate",
+    "6500mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March 02",
+      "Status": "Rumored. Exp. release 2026, March"
+    },
+    "BODY": {
+      "Dimensions": "162.4 x 77 x 7.4 mm (6.39 x 3.03 x 0.29 in)",
+      "Weight": "178 g (6.28 oz)",
+      "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass 7i), plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min) MIL-STD-810 compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 144Hz, 2160Hz PWM, HDR10",
+      "Size": "6.78 inches, 112.1 cm2 (~89.6% screen-to-body ratio)",
+      "Resolution": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2",
+      "": "HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades, HIOS 16",
+      "Chipset": "Mediatek Dimensity 7400 Ultimate (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.4, 70mm (telephoto), 1/2.88\", 0.61µm, PDAF, 3x optical zoom\n8 MP, f/2.2, 14mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "Dual-LED flash, HDR, panorama",
+      "Video": "4K@30fps, 1080p@60fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.4, 21mm (wide), 1/2.76\", 0.64µm, PDAF",
+      "Video": "4K@30/60fps, 1080p@60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6160 mAh or 6500 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Orange, Blue, Black"
+    },
+    "OUR TESTS": {
+      "Performance": "AnTuTu: 804875 (v10), 944781 (v11)\nGeekBench: 3134 (v6)\n3DMark: 1050 (Wild Life Extreme)",
+      "Display": "1302 nits max brightness (measured)",
+      "Loudspeaker": "-25.4 LUFS (Very good)",
+      "Battery": "Active use score 16:00h"
+    }
+  }
+}
