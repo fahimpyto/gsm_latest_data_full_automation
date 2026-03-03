@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/oppo_a6s_pro-14523.php",
+  "name": "Oppo A6s Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6s-pro.jpg",
+  "highlights": [
+    "Released 2026, March 03\n190g, 8mm thickness\nAndroid 16, ColorOS 16\n128GB/256GB storage, microSDXC",
+    "1.7%\n2,187 HITS",
+    "3\nBECOME A FAN",
+    "6.57\"\n1080x2372 pixels",
+    "50MP\n1080p",
+    "8GB RAM\nHelio G100 Max",
+    "7000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, February 24",
+      "Status": "Available. Released 2026, March 03"
+    },
+    "BODY": {
+      "Dimensions": "158.2 x 75 x 8 mm (6.23 x 2.95 x 0.31 in)",
+      "Weight": "190 g (6.70 oz)",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM)",
+      "Size": "6.57 inches, 105.0 cm2 (~88.5% screen-to-body ratio)",
+      "Resolution": "1080 x 2372 pixels (~397 ppi density)",
+      "Protection": "AGC DT-Star D+"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Mediatek Helio G100 Max (6 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30/60/120fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, (wide)",
+      "Features": "Panorama",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "80W wired, 33W PPS, 13.5W PD\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Lumina Frost, Eclipse Blue",
+      "Price": "About 280 EUR"
+    }
+  }
+}

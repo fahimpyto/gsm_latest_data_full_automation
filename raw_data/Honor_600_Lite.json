@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/honor_600_lite_5g-14522.php",
+  "name": "Honor 600 Lite",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-lite.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, up to 6 major upgrades\n256GB storage, no card slot",
+    "4.4%\n5,453 HITS",
+    "5\nBECOME A FAN",
+    "6.6\"\n1200x2600 pixels",
+    "108MP\n1080p",
+    "8/12GB RAM\nDimensity 7100 Elite",
+    "6520mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP66 dust tight and water resistant (high pressure water jets)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 120Hz, 3840Hz PWM, 6500 nits (peak)",
+      "Size": "6.6 inches, 106.9 cm2",
+      "Resolution": "1200 x 2600 pixels, 19.5:9 ratio (~434 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 6 major Android upgrades, MagicOS 10",
+      "Chipset": "Mediatek Dimensity 7100 Elite (6 nm)",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "108 MP, f/1.8, (wide), 1/1.67\", PDAF\n5 MP, f/2.2, (ultrawide)",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.2, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, compass, proximity (ultrasonic)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 6520 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Velvet Black, Desert Gold",
+      "Price": "About 270 EUR"
+    }
+  }
+}
