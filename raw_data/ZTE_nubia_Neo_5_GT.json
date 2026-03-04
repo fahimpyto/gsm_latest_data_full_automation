@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/zte_nubia_neo_5_gt_5g-14524.php",
+  "name": "ZTE nubia Neo 5 GT",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-neo-5-gt.jpg",
+  "highlights": [
+    "Exp. release 2026, March\n\nAndroid 16\n256GB/512GB storage, no card slot",
+    "18%\n21,041 HITS",
+    "15\nBECOME A FAN",
+    "6.8\"\n1224x2720 pixels",
+    "50MP\n1080p",
+    "12GB RAM\nDimensity 7400",
+    "6210mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March 03",
+      "Status": "Coming soon. Exp. release 2026, March"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nPressure sensitive zones (550Hz touch-sensing)\nBuilt-in cooling fan\nRGB light (on the back)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 144Hz, 4500 nits (peak)",
+      "Size": "6.8 inches, 111.6 cm2",
+      "Resolution": "1224 x 2720 pixels, 20:9 ratio (~439 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 7400 (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes (market/region dependent)",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+    },
+    "BATTERY": {
+      "Type": "6210 mAh",
+      "Charging": "80W wired (ROW)\n45W wired, PD (Europe)\nBypass Charging"
+    },
+    "MISC": {
+      "Colors": "Yellow, Gray, White",
+      "Models": "Z2570N",
+      "Price": "About 400 EUR"
+    }
+  }
+}
