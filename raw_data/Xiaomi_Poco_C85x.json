@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_poco_c85x_5g-14535.php",
+  "name": "Xiaomi Poco C85x",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c85x-.jpg",
+  "highlights": [
+    "Exp. release 2026, March 14\n210g, 8.2mm thickness\nAndroid 16, HyperOS 3\n64GB/128GB storage, microSDXC",
+    "10%\n5,509 HITS",
+    "3\nBECOME A FAN",
+    "6.9\"\n720x1600 pixels",
+    "32MP\n1080p",
+    "4GB RAM\nDimensity 6300",
+    "6300mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "1, 3, 5, 8, 28, 40, 41",
+      "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March 10",
+      "Status": "Coming soon. Exp. release 2026, March 14"
+    },
+    "BODY": {
+      "Dimensions": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+      "Weight": "210 g (7.41 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Dust and splash resistant"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 810 nits (HBM)",
+      "Size": "6.9 inches, 114.9 cm2 (~84.3% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HyperOS 3",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM, 128GB 4GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Dual": "32 MP, (wide), AF\nAuxiliary lens",
+      "Features": "LED flash, HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "FM radio, recording",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+      "": "Virtual proximity sensing"
+    },
+    "BATTERY": {
+      "Type": "6300 mAh",
+      "Charging": "15W wired\n7.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Green, Gold",
+      "Price": "About 100 EUR"
+    }
+  }
+}

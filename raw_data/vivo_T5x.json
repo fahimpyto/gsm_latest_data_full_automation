@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/vivo_t5x_5g-14536.php",
+  "name": "vivo T5x",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y31d.jpg",
+  "highlights": [
+    "Not announced yet\n8.4mm thickness\nAndroid 16, OriginOS 6\n128GB/256GB storage, no card slot",
+    "2.1%\n1,289 HITS",
+    "1\nBECOME A FAN",
+    "6.72\"\n1080x2400 pixels",
+    "50MP\n1080p",
+    "6/8GB RAM\nDimensity 7400 Turbo",
+    "7200mAh\n44W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant* * does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 1250 nits (HBM)",
+      "Size": "6.72 inches, 109.0 cm2 (~83.5% screen-to-body ratio)",
+      "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Mediatek Dimensity 7400 Turbo (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "Features": "LED flash, panorama",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.1, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Unspecified",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7200 mAh",
+      "Charging": "44W wired, 50% in 43 min\nReverse wired\nBypass Charging"
+    },
+    "MISC": {
+      "Colors": "Green, White",
+      "Models": "V2545"
+    }
+  }
+}
