@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/tecno_camon_50_pro_5g-14538.php",
+  "name": "Tecno Camon 50 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-50-pro.jpg",
+  "highlights": [
+    "Released 2026, March 10\n7.8mm thickness\nAndroid 16, up to 3 major upgrades, HIOS 16\n256GB/512GB storage, Unspecified",
+    "30%\n14,171 HITS",
+    "11\nBECOME A FAN",
+    "6.78\"\n1208x2644 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nDimensity 7400 Ultimate",
+    "6500mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March 10",
+      "Status": "Available. Released 2026, March 10"
+    },
+    "BODY": {
+      "Dimensions": "162.4 x 77 x 7.8 mm (6.39 x 3.03 x 0.31 in)",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 144Hz",
+      "Size": "6.78 inches, 112.1 cm2 (~89.6% screen-to-body ratio)",
+      "Resolution": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+      "": "HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 3 major Android upgrades, HIOS 16",
+      "Chipset": "Mediatek Dimensity 7400 Ultimate (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "Unspecified",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.4, 70mm (telephoto), AF, OIS, 3x optical zoom\n8 MP, f/2.2, 14mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, (wide)",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6500 mAh",
+      "Charging": "45W wired"
+    },
+    "MISC": {
+      "Colors": "Moonshadow Black, Cypress Green, Nebula Titanium, Misty Purple",
+      "Models": "CN7c"
+    }
+  }
+}
