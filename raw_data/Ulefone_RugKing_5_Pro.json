@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/ulefone_rugking_5_pro-14544.php",
+  "name": "Ulefone RugKing 5 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-rugking-5-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, March 16\n629g, 26.5mm thickness\nAndroid 16\n256GB storage, microSDXC",
+    "0.8%\n462 HITS",
+    "1\nBECOME A FAN",
+    "6.78\"\n1080x2460 pixels",
+    "64MP\n1080p",
+    "8GB RAM\nUnisoc T7250",
+    "20000mAh\n33W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March",
+      "Status": "Coming soon. Exp. release 2026, March 16"
+    },
+    "BODY": {
+      "Dimensions": "179 x 85 x 26.5 mm (7.05 x 3.35 x 1.04 in)",
+      "Weight": "629 g (1.39 lb)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\n976 lumens dedicated flood flashlight"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 910 nits",
+      "Size": "6.78 inches, 109.2 cm2 (~71.7% screen-to-body ratio)",
+      "Resolution": "1080 x 2460 pixels (~396 ppi density)",
+      "Protection": "Corning Gorilla Glass 3, Mohs level 4"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "256GB 8GB RAM",
+      "": "UFS 2.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "64 MP, f/1.8, (wide), 0.7µm, AF\n20 MP, f/1.8, (night vision), 2 infrared lights",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.3, (wide), 1.0µm",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "Yes",
+      "Radio": "Wireless FM radio, RDS, recording",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 20000 mAh",
+      "Charging": "33W wired\n6W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black",
+      "Price": "$ 249.99 / C$ 409.99 / £ 229.99 / € 259.99"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "110:17h endurance, 1000 cycles",
+      "Free fall": "Class A (300 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}
