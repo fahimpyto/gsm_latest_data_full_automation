@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/oppo_find_x9_ultra_5g-14548.php",
+  "name": "Oppo Find X9 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x8-ultra.jpg",
+  "highlights": [
+    "Not announced yet\n235 g\nAndroid 16, ColorOS 16\n512GB/1TB storage, no card slot",
+    "13%\n5,436 HITS",
+    "17\nBECOME A FAN",
+    "6.82\"\n1440x3120 pixels",
+    "200MP\n2160p",
+    "16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "7050mAh\n100W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "8.7 mm thickness",
+      "Weight": "235 g (8.29 oz)",
+      "Build": "Glass front, aluminum alloy frame, silicone polymer back (eco leather)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 144Hz, 2160Hz PWM, Dolby Vision, HDR Vivid, HDR10+, 800 nits (typ), 2200 nits (HBM), 3600 nits (peak)",
+      "Size": "6.82 inches, 114.2 cm2",
+      "Resolution": "1440 x 3120 pixels, 19.5:9 ratio (~504 ppi density)",
+      "Protection": "NanoCrystal Glass",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, ColorOS 16",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Quad": "200 MP, f/1.8, (wide), PDAF, OIS\n200 MP, (periscope telephoto), PDAF, OIS, 3x optical zoom\n50 MP, (periscope telephoto), PDAF, OIS, 10x optical zoom\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), 1/2.75\", 0.64µm, PDAF",
+      "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama",
+      "Video": "4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, (wide), PDAF",
+      "Features": "Panorama, HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+      "": "Emergency SOS via satellite (messages and calls) - available in Oppo Find X9 Ultra Satellite version"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7050 mAh",
+      "Charging": "100W wired, 18W PD, 18W QC, 55W PPS\n50W wireless\n10W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black; other colors"
+    }
+  }
+}
