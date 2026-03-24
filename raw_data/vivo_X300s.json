@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/vivo_x300s_5g-14557.php",
+  "name": "vivo X300s",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300-ultra-.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 16, up to 5 major upgrades\n256GB/512GB/1TB storage, no card slot",
+    "5.2%\n2,787 HITS",
+    "9\nBECOME A FAN",
+    "6.78\"\n1260x2800 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nDimensity 9500",
+    "7100mAh\n90W40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+      "": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - China",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, aluminum alloy frame, glass back",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International\n· Nano-SIM + Nano-SIM - China",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 144Hz, 2160Hz PWM, HDR10+, HDR Vivid",
+      "Size": "6.78 inches, 111.0 cm2",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~453 ppi density)",
+      "Protection": "Reinforced Glass",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 5 major Android upgrades, OriginOS 6",
+      "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+      "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+      "GPU": "Arm G1-Ultra"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56µm, PDAF, OIS\n50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+      "Features": "Laser AF, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+      "Video": "4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, 4K@120fps HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7100 mAh",
+      "Charging": "90W wired\n40W wireless\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black; other colors"
+    }
+  }
+}
