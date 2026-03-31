@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP",
+    "Flash:": "LED flash, panorama",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "13 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "4K, 1080p"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray, Blue, Purple",
+    "Folded:": "",
+    "Weight:": "663 g (1.46 lb)",
+    "Materials:": "Glass front, aluminum back, aluminum frame",
+    "Biometrics:": "Accelerometer, gyro, proximity (accessories only)",
+    "Dimensions:": "297 x 199.8 x 6.2 mm (11.69 x 7.87 x 0.24 in)",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "13000 mAh",
+    "Charging:": "66W wired, PD\n5W reverse wired",
+    "Max charge speed:": "Wired: 66W"
+  },
+  "Display": {
+    "Size:": "13.2 inches",
+    "Features:": "Accelerometer, gyro, proximity (accessories only)",
+    "Resolution:": "2512 x 3840 pixels, 3:2 ratio (~348 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1200 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16, OriginOS 6",
+    "GPU:": "Adreno 840",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (8 speakers)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, OTG, magnetic connector",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7 dual-band",
+    "Sensors:": "Accelerometer, gyro, proximity (accessories only)",
+    "Features:": "USB Type-C 3.2, OTG, magnetic connector",
+    "Location:": "Unspecified",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
