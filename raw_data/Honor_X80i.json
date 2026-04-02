@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/honor_x80i_5g-14579.php",
+  "name": "Honor X80i",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x80i.jpg",
+  "highlights": [
+    "Exp. release 2026, April 10\n185g, 7.3mm thickness\nAndroid 16, MagicOS 10\n128GB/256GB/512GB storage, no card slot",
+    "N/A\n360 HITS",
+    "0\nBECOME A FAN",
+    "6.6\"\n1200x2600 pixels",
+    "50MP\n1080p",
+    "8/12GB RAM\nDimensity 6500 Elite",
+    "7000mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, April 01",
+      "Status": "Coming soon. Exp. release 2026, April 10"
+    },
+    "BODY": {
+      "Dimensions": "157.4 x 75.4 x 7.3 mm (6.20 x 2.97 x 0.29 in)",
+      "Weight": "185 g (6.53 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP66 dust tight and water resistant (high pressure water jets)\nDrop resistant up to 1.8m"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, 800 nits (typ), 2000 nits (HBM), 6500 nits (peak)",
+      "Size": "6.6 inches, 106.9 cm2 (~90.1% screen-to-body ratio)",
+      "Resolution": "1200 x 2600 pixels, 19.5:9 ratio (~434 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Mediatek Dimensity 6500 Elite (6 nm)",
+      "CPU": "Octa-core (2x2.6 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5.0",
+      "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, compass, proximity (ultrasonic)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 7000 mAh",
+      "Charging": "45W wired\n6W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Pink, Green",
+      "Models": "LNA-AN00",
+      "Price": "About 250 EUR"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.gsmarena.com/lenovo_idea_tab_pro_gen_2-14575.php",
+  "name": "Lenovo Idea Tab Pro Gen 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-idea-tab-pro-gen2.jpg",
+  "highlights": [
+    "Released 2026, March\n598g, 6.2mm thickness\nAndroid 16, up to 2 major Android upgrades\n128GB/256GB/512GB storage, microSDXC",
+    "10%\n4,815 HITS",
+    "6\nBECOME A FAN",
+    "13.0\"\n3504x2190 pixels",
+    "13MP\n1080p",
+    "8/12GB RAM\nSnapdragon 8s Gen 4",
+    "10200mAh\n45W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, March 02",
+      "Status": "Available. Released 2026, March"
+    },
+    "BODY": {
+      "Dimensions": "296.5 x 191.9 x 6.2 mm (11.67 x 7.56 x 0.24 in)",
+      "Weight": "598 g (1.32 lb)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "No",
+      "": "Stylus support (magnetic)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 144Hz, Dolby Vision, 800 nits",
+      "Size": "13.0 inches, 490.0 cm2 (~86.1% screen-to-body ratio)",
+      "Resolution": "3504 x 2190 pixels, 16:10 ratio (~318 ppi density)",
+      "Protection": "Mohs level 5",
+      "": "Matte edition paper-like LCD with anti-glare (optional)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, up to 2 major Android upgrades",
+      "Chipset": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+      "GPU": "Adreno 825"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 12GB RAM",
+      "": "UFS 3.1 - 128GB only\nUFS 4.0"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, (wide), AF",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+      "3.5mm jack": "No",
+      "": "JBL sound"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, DisplayPort 1.4a, OTG, accessory connector pins"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 10200 mAh",
+      "Charging": "45W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Luna Grey, Cloud Grey, Jelly Mint",
+      "Models": "TB390FU",
+      "Price": "About 550 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class F",
+      "Battery": "105:17h endurance, 1000 cycles",
+      "Free fall": "Class E (12 falls)",
+      "Repairability": "Class A"
+    }
+  }
+}
